@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1041524878732",
+    "project_id": "moodsync-faff2",
+    "storage_bucket": "moodsync-faff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041524878732:android:32ec7bfc6b2b62cd5d3aa9",
+        "android_client_info": {
+          "package_name": "com.ecomapp.moodsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041524878732-ag9018ls9l43q3lfs4guej4gomj4ilbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecomapp.moodsync",
+            "certificate_hash": "9ba995304aa4d28e266eb7bbe841b91792ab87de"
+          }
+        },
+        {
+          "client_id": "1041524878732-8tdiboninv2uqilvhdlla3ank55jr74d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzXByERrov61VisyXTdH8tULSd9wVSqR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041524878732-8tdiboninv2uqilvhdlla3ank55jr74d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041524878732:android:c2d5e9db0d44fa8b5d3aa9",
+        "android_client_info": {
+          "package_name": "com.voice.call.demo.twilio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041524878732-8tdiboninv2uqilvhdlla3ank55jr74d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzXByERrov61VisyXTdH8tULSd9wVSqR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041524878732-8tdiboninv2uqilvhdlla3ank55jr74d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
